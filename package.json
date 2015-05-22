@@ -35,6 +35,7 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-sentiment": "^1.2.6",
+    "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-urban": "^1.0.0",
     "hubot-vtr-scripts": "^1.1.0",
