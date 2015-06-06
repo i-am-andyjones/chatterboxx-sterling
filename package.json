@@ -24,8 +24,6 @@
     "hubot-google-translate": "^0.1.0",
     "hubot-googleapi": "^0.2.3",
     "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
-    "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.2",
     "hubot-markov": "^1.4.0",
     "hubot-plusplus": "^1.1.5",
